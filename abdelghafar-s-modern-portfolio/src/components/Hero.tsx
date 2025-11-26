@@ -48,7 +48,7 @@ const Hero = () => {
             className="bg-accent hover:bg-accent/90 text-accent-foreground"
             asChild
           >
-            <a href="https://drive.google.com/file/d/1--VWJ_j4KGKnBLC1u16EWqm8zYFd1_Op/view?usp=drive_link" rel="noopener noreferrer" download="Abdelghafar_Nagy_Ahmed_CV.pdf">
+            <a href="https://drive.google.com/file/d/1lWuQ3z_EDlGQwKc1lM4b41Ih97dK0ci0/view?usp=sharing" rel="noopener noreferrer" download="Abdelghafar_Nagy_Ahmed_CV.pdf">
               <Download className="w-4 h-4 mr-2" />
               Download CV
             </a>
