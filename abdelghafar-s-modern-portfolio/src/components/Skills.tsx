@@ -25,7 +25,7 @@ const Skills = () => {
       title: "Languages",
       skills: [
         "Arabic (Native)",
-        "English (Good)",
+        "English (B1)",
       ],
     },
   ];
